@@ -1,0 +1,16 @@
+{
+  "name": "api_starwars_get",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lambda-local": "^1.7.4",
+    "node-fetch": "^2.6.1"
+  }
+}
